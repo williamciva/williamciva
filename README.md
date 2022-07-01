@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho na @bassopancotte.
 - 🌱 Nesses ultimos tempos ando me aventurando em linguagens como JavaScript, Python, Java ou até mesmo com projetos Front-end.
 - 👯 Adoro colaborar em repositórios de colegas e amigos.
-- 🤔 I’m looking for help with ...
 - 💬 Quer centrar em contato comigo?
 - 📫 Esse é meu e-mail: williamciva@outlook.com
 - ⚡ Existem duas maneiras de criar códigos sem bug's🐞. Apenas a terceira funciona🤓.
