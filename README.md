@@ -64,6 +64,8 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=icloud&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=black)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-white?style=for-the-badge&logo=netlify&logoColor=00C7B7)&nbsp;
 
 ###### Database Management:
 ![Oracle](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge)&nbsp;
