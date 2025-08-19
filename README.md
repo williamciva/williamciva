@@ -41,6 +41,8 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=%233178C6)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
+
 
 <img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/2EBwU1VYZH8AAAAC/lol-haha.gif"/>
 
@@ -56,11 +58,12 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Flutter](https://img.shields.io/badge/Fluter-white?style=for-the-badge&logo=flutter&logoColor=39bdfa)&nbsp;
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=icloud&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-white?style=for-the-badge&logo=render&logoColor=black)&nbsp;
 
 ###### Database Management:
 ![Oracle](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge)&nbsp;
