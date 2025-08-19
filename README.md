@@ -94,6 +94,14 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 <br>
 <br>
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF2MzdkdmozMmYwNjQ0OXAyYnlybnA0ZGZrajNtbGNwNjZqMmJjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMAMQ3C5oK3gv7KABv/giphy.gif" width="35">&nbsp; ***Badges***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1](https://images.credly.com/size/110x110/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png)](http://www.credly.com/badges/38092549-7ddd-48ba-bfee-62d0e63e4875 "AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1")
+
+<br>
+<br>
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Favorite***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -137,8 +145,3 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-    
-------------
-<!--START_SECTION:badges-->
-[![AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1](https://images.credly.com/size/110x110/images/973caa5a-e3d1-4616-806f-4c95d5f2ffea/image.png)](http://www.credly.com/badges/38092549-7ddd-48ba-bfee-62d0e63e4875 "AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1")
-<!--END_SECTION:badges-->
