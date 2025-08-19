@@ -23,10 +23,10 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:william.civa@outlook.com"><img src="https://img.shields.io/badge/Email-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://discordapp.com/users/408632569928876032"><img src="https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/williamciva/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/williamciva"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/williamciva"><img src="https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white&color=black" /></a>
+  <a href="https://discordapp.com/users/408632569928876032" target="_blank"><img src="https://img.shields.io/badge/Discord-%2312100E.svg?style=for-the-badge&logo=discord&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/williamciva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/williamciva" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://x.com/williamciva" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2312100E.svg?style=for-the-badge&logo=x&logoColor=white&color=black" /></a>
 </div>
 
 <br>
