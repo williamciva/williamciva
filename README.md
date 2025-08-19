@@ -4,7 +4,8 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"/>
+<!--<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"/> -->
+<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>
 
 I hold a degree in **Computer Science** and have a strong interest in **back-end development**, with experience building **REST APIs**.  
 I have solid knowledge of **Spring Boot**, **.NET** and relational databases.
@@ -44,14 +45,16 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
 
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>
+<!--<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>-->
+<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"/>
 
 ###### Backend & Frameworks:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Flyway](https://img.shields.io/badge/Flyway-white?style=for-the-badge&logo=flyway&logoColor=CC0200)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Web3.JS](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 ###### Frontend Development:
@@ -78,6 +81,7 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![DataGrip](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=datagrip)&nbsp;
 ![Brup Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)&nbsp;
 
 ###### Development Environments:
