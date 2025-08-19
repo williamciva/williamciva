@@ -44,7 +44,7 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
 
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/2EBwU1VYZH8AAAAC/lol-haha.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>
 
 ###### Backend & Frameworks:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
