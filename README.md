@@ -61,6 +61,7 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next.JS](https://img.shields.io/badge/Next.JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)&nbsp;
 ![Flutter](https://img.shields.io/badge/Fluter-white?style=for-the-badge&logo=flutter&logoColor=39bdfa)&nbsp;
 
 ###### Deployment & Cloud Services:
@@ -88,6 +89,8 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=androidstudio)&nbsp;
+
 <br>
 <br>
 
