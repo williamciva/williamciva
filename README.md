@@ -4,8 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<!--<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"/> -->
-<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>
+<img align="right" width=200px src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>
 
 I hold a degree in **Computer Science** and have a strong interest in **back-end development**, with experience building **REST APIs**.  
 I have solid knowledge of **Spring Boot**, **.NET** and relational databases.
@@ -35,6 +34,8 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="right" width=300px src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"/>
+
 ###### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
@@ -43,10 +44,6 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=%233178C6)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
-
-
-<!--<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/evOjo3SiS1sAAAAd/cat-blink.gif"/>-->
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif"/>
 
 ###### Backend & Frameworks:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
