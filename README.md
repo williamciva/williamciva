@@ -51,6 +51,8 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![Flyway](https://img.shields.io/badge/Flyway-white?style=for-the-badge&logo=flyway&logoColor=CC0200)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.JS-20232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+![Express.JS](https://img.shields.io/badge/Express.JS-20232a.svg?style=for-the-badge&logo=express&logoColor=black&color=F7DF1E)&nbsp;
+![Nest.JS](https://img.shields.io/badge/Nest.JS-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
 ![Web3.JS](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
@@ -60,8 +62,6 @@ I’m also an **Information Security enthusiast**, with a special interest in **
 ![CSS3](https://img.shields.io/badge/CSS3-2c5ca3?style=for-the-badge&logo=css)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.JS](https://img.shields.io/badge/Next.JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)&nbsp;
-![Express.JS](https://img.shields.io/badge/Express.JS-20232a.svg?style=for-the-badge&logo=express&logoColor=black&color=F7DF1E)&nbsp;
-![Nest.JS](https://img.shields.io/badge/Nest.JS-20232a.svg?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
 ![Flutter](https://img.shields.io/badge/Fluter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=39bdfa)&nbsp;
 
 ###### Deployment & Cloud Services:
